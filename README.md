@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-### 🔭 About Me:
-I'm a Computer Science student @ Oregon State University with hands-on experience across desktop applications, mobile game development, and full-stack web applications. My professional background includes developing robust, modular codebases in React for frontend interfaces and Flask for backend services. Recently, I've delved into mobile game development, leveraging Swift and SpriteKit.
+### 🔭 About Me
+I'm a Computer Science student @ Oregon State University with hands-on experience across desktop applications, mobile game development, and full-stack web applications. My professional background includes developing robust, modular codebases for web applications using React and Flask, and I’ve recently delved into mobile game development, leveraging Swift and SpriteKit.
 
-Currently, I’m a College Software Developer at Hyel Inc., where I’m gaining valuable industry experience building a mobile game for the HYEL platform. Alongside, I’m pursuing the AWS Solutions Architect certification to deepen my knowledge of cloud and DevOps practices, including containerization with Docker, orchestration with Kubernetes, and scalable architecture design.
+### 📖 What I'm Up To
+* 🚀 Building: Currently working with a team of four at [HYEL Inc.](https://www.linkedin.com/company/hyelapp/), to conceptualize and develop a mobile game for their platform using SwiftUI, SpriteKit, and GameplayKit.
+* 🌩️ Learning: Deepening my cloud and DevOps knowledge through the AWS Solutions Architect - Associate certification program using Adrian Cantril's course. Exploring scalable architectures, containerization with Docker, and orchestration with Kubernetes.
+* 🛠️ Experimenting: Developing side projects using C++ for desktop applications and TypeScript for modern web solutions. Recently working on a CLI-based stock tracker using ZeroMQ and SQLite for real-time updates.
 
 <div align="center">
   
@@ -15,7 +18,7 @@ Currently, I’m a College Software Developer at Hyel Inc., where I’m gaining 
   
 </div>
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
 #### Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -28,7 +31,7 @@ Currently, I’m a College Software Developer at Hyel Inc., where I’m gaining 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Frameworks & Libraries:
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -42,28 +45,32 @@ Currently, I’m a College Software Developer at Hyel Inc., where I’m gaining 
 ![GameplayKit](https://img.shields.io/badge/GameplayKit-FFAC45?style=flat-square)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-#### Cloud & DevOps:
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+#### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
-#### Developer Tools & Methodologies:
+### Developer Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![vcpkg](https://img.shields.io/badge/vcpkg-000000?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF003E?style=flat-square)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=flat-square)
-![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+#### Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=flat-square)
 
