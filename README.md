@@ -4,7 +4,7 @@
 I'm a Computer Science student @ Oregon State University with hands-on experience across desktop applications, mobile game development, and full-stack web applications. My professional background includes developing robust, modular codebases for web applications using React and Flask, and I’ve recently delved into mobile game development, leveraging Swift and SpriteKit.
 
 ### 📖 What I'm Up To
-* 🚀 Building: Currently working with a team of four at [HYEL Inc.](https://www.linkedin.com/company/hyelapp/), to conceptualize and develop a mobile game for their platform using SwiftUI, SpriteKit, and GameplayKit.
+* 🚀 Building: Working on C#/.NET related projects.
 * 🌩️ Learning: Deepening my cloud and DevOps knowledge through the AWS Solutions Architect - Associate certification program using Adrian Cantril's course. Exploring scalable architectures, containerization with Docker, and orchestration with Kubernetes.
 * 🛠️ Experimenting: Developing side projects using C++ for desktop applications and TypeScript for modern web solutions. Recently working on a CLI-based stock tracker using ZeroMQ and SQLite for real-time updates.
 
